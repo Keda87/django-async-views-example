@@ -1,0 +1,4 @@
+beautifulsoup4==4.8.2
+-e git+https://github.com/django/django.git@fc0fa72ff4cdbf5861a366e31cb8bbacd44da22d#egg=Django
+httpx==0.12.0
+uvicorn==0.11.3

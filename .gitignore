@@ -1,0 +1,7 @@
+venv
+.vscode
+.idea
+*/__pychache__/*
+src/static/*
+src/db.sqlite3
+*.pyc
